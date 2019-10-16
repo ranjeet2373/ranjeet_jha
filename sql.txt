@@ -1,0 +1,49 @@
+1) display annual salary
+2)waq to increment salary by 5000
+3)waq to decrement salary by 5000
+4)waq to display result of emp table whoes designation is software developer.
+5)waq to display all the record of employee excluding who is woriking deptno 20.
+6)waq to display salary greater than 20000.
+7)waq to display age should be less than 30.
+8)waq to dispaly name,salary,email id ,mobileno whoes age is 25 or greater than 25.
+9)waq to display whoes salary is less than equal to 20000.
+10)waq to display all the employee detail who is working in deptno 20 as well as salary is greater than 25000.
+11)waq to display name,salary from the emp table who is working in dept number 10 and 20.
+12)waq to display name,salary from the emp whose age is 25.
+13)waq to display all the emp who is working as a tester or having salary more than 40000.
+14)waq to display name,salary,age from the employee table who is working in deptno 10,40,50.
+15)waq to display emp detail whoes age is more than 25 and bloodgroup is b+.
+16)waq to display all the record of the employee excluding clerk.
+17)waq to display name of all employee who is working as hr or clerk and salary is greater than 20000.
+18)waq display all the employee excluding software developer who are working in deptno=40.
+19)waq to display all the software developer who are working for deptno=10,40.
+20)waq to display all the detail of emp whoes name start with 'a'.
+21) waq to display name of the employ whoes 2nd character is I.
+22)waq to display the name of the employee which has atleast two l in the name.
+23)waq to display the name whoes name start with s and ends with p.
+24)waq to display all the record of the employee if the employee name begins with a or s.
+25)waq to display name ,sal who is working in deptno 12,20,30 and designation starts with s.
+26)waq to display all the result of emp whoes salary should be arrange in desc.. order.
+27)waq to display all the record of employee whoes date of joining is same as amrit.
+28)waq to disolay the second maxm salary.
+29)waq to display name of the employee who is working in location which has atleast one 'a' in the location
+
+*************IN  OPERATER***********
+
+20)waq to display all the detail of employee who are working in deptno 40,50,70.
+21)waq to display name of all employee who are working as a clerk,manager,software_developer.
+22)waq to display detail of tester,admin,software developer who are working in deptno 20 or 30 and salary is graeter than 25000.
+
+
+*************NOT IN*************
+23)waq to display all the record of employee excluding who is working as a tester,admin,hr.
+24)waq to display all the record of employee whoes age is 20,25,30,40 exclude all the detail tester and software-developer.
+
+
+************BETWEEN*************
+
+25)waq to display all the record of employee whoes age is between 20 to 40.
+26)waq to display all record who hire in 2017.
+27)waq to display all the detail of employee excluding whoes sal is 20000 and 25000.
+
+
