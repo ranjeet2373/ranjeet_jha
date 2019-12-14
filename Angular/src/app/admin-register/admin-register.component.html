@@ -1,0 +1,21 @@
+
+<div class="alert alert-danger" *ngIf='error'>{{error}}</div>
+<form #adminform='ngForm' class="col-md-4 offset-4 mt-5 card card-body"(ngSubmit)='register(adminform)'>
+    <h1 class="text-center bg-dark text-white">Registration Form!!!</h1>
+
+    <div class="form-group">
+        <input type="text" #name = 'ngModel' ngModel name="name" id="name" class="form-control" placeholder="Enter Your Name">
+    </div>
+
+    <div class="form-group">
+        <input type="password" #password= 'ngModel' ngModel name="password" id="password" class="form-control" placeholder="Set Password">
+    </div>
+
+    <div class="form-group">
+        <input  type="text" name="gender" id="gender" placeholder="Enter Your Gender" class="form-control" #gender= 'ngModel' ngModel>
+    </div>
+
+    <div class="form-group ">
+        <input type="submit" class="btn btn-success float-right" value="Register">
+    </div>
+</form>
